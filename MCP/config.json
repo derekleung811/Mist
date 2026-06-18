@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "juniper-mist-mcp": {
+      "command": "python",
+      "args": ["/absolute/path/to/mist_mcp_server.py"],
+      "env": {
+        "MIST_API_TOKEN": "your_actual_mist_api_token_here",
+        "MIST_ORG_ID": "your_mist_organization_uuid_here",
+        "MIST_HOST": "api.mist.com"
+      }
+    }
+  }
+}
