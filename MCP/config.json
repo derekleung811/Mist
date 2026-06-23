@@ -4,8 +4,8 @@
       "command": "python",
       "args": ["/absolute/path/to/mist_mcp_server.py"],
       "env": {
-        "MIST_API_TOKEN": "your_actual_mist_api_token_here",
-        "MIST_ORG_ID": "your_mist_organization_uuid_here",
+        "MIST_API_TOKEN": "R1qape14BgPn8GGj2ZG1HfUC4bZn8o1BQUex809zgtZUhjRYebI6wTn0o0ieMQ4KlQDGeWQ9RWghQiDMvU8EWXm966qggJXh",
+        "MIST_ORG_ID": "30fd3230-1662-4f4f-818c-ff608fb96f7c",
         "MIST_HOST": "api.mist.com"
       }
     }
